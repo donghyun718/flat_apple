@@ -18,7 +18,12 @@
 수정이되나요?
 
 ---
+<div style="float:left">
 # 이민준입니다.
 ## 별 명: 곰
 ## 성 격: 온순
 ### 연말 계획: 다 같이 쓰리 투 원 !!
+  </div>
+<div style="float:right;">
+<img src="https://user-images.githubusercontent.com/46038987/50468779-de6b0c00-09ec-11e9-81ba-0ef77520f2d5.PNG">
+</div>
