@@ -10,6 +10,6 @@
 @snapend
 ---
 @snap[north]
-## 이선행
+## 이선행입니다
 @snapend
 ---
