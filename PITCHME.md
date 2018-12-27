@@ -14,6 +14,16 @@
   font-size: 0.9em;
   letter-spacing: 2px;
 }
+.byline1 {
+  color: gray;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
+.byline2 {
+  color: gray;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
 
 ### @css[headline](이동현)
 #### @css[byline](엄마)
