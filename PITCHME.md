@@ -25,5 +25,5 @@
 ### 연말 계획: 다 같이 쓰리 투 원 !!
 </div>
 <div style="width: 207px; height: 255; float:right;">
-<img src="https://user-images.githubusercontent.com/46038987/50469047-29d1ea00-09ee-11e9-8ccc-e9b1dc8b18f9.jpg">
+<img src="https://user-images.githubusercontent.com/46038987/50469253-f5126280-09ee-11e9-84f4-8dbfc85c42c7.jpg">
 </div>
