@@ -1,18 +1,8 @@
 ---
-# 슬라이드 1
-안녕하세요, 반갑습니다.
----
-# 슬라이드 2
-그럼 이만...
----?color=#DDDDDD
-
-@snap[north]
-## 납작한사과 이경일
-@snapend
+# 임정현 1
+**안녕하세요, 반갑습니다.**
+## 성격 : 직설적....이래요...그치만 마음은 따뜻해요
+## 별명 : 유치하게 별명은 무슨 별명이에요..
 
 ---
-@snap[north]
-## 이동현
-@snapend
----
-수정이되나요?
+![jeonghyun] : http://mblogthumb1.phinf.naver.net/20150113_284/yorkieberry_1421159180061VI4sz_JPEG/%C4%DA%C4%AB04.jpg?type=w2
