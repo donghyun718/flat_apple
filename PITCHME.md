@@ -23,7 +23,7 @@
 ## 별 명: 곰
 ## 성 격: 온순
 ### 연말 계획: 다 같이 쓰리 투 원 !!
-  </div>
+</div>
 <div style="float:right;">
-<img src="https://user-images.githubusercontent.com/46038987/50468779-de6b0c00-09ec-11e9-81ba-0ef77520f2d5.PNG">
+<img src="https://user-images.githubusercontent.com/46038987/50469047-29d1ea00-09ee-11e9-8ccc-e9b1dc8b18f9.jpg">
 </div>
