@@ -27,4 +27,3 @@
 <img src="https://user-images.githubusercontent.com/29008224/50469714-05c3d800-09f1-11e9-8fa4-12bb2fb2b58a.jpg" width="400">
 
 @snapend
----
