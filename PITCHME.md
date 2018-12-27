@@ -5,9 +5,11 @@
 @snapend
 
 ---?color=#dfdfdf
-@img[shadow](http://t1.daumcdn.net/liveboard/petnu/1e7038e4fe9f43ed85b56940c8fc7096.JPG | width=100px)
 
-@snap[north]
+@snap[north-east]
+@img[shadow](http://t1.daumcdn.net/liveboard/petnu/1e7038e4fe9f43ed85b56940c8fc7096.JPG|width=300)
+@snapend
+@snap[north-east]
 ## 성격 : 낙천적
 ## 별명 : 보살님
-@snap[north]
+@snapend
