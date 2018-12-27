@@ -23,7 +23,7 @@
 @snapend
 @snap[east]
 
-<img src="https://user-images.githubusercontent.com/29008224/50469127-79181a80-09ee-11e9-8769-55dd76803bf2.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/29008224/50469714-05c3d800-09f1-11e9-8fa4-12bb2fb2b58a.jpg" width="400">
 
 @snapend
 ---
