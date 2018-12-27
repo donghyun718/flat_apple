@@ -5,10 +5,10 @@
 @snapend
 
 @snap[west]
-### @color[black](이름 : )@color[blue](이동현)
+# @size[2em]@color[black](이름 : )@color[blue](이동현)
 ### 별명 : 엄마
 ### 성격 : 밝다
-### 연말계획 : 카운트다운 
+### 연말계획 : @color[red](카운트다운)
 @snapend
 
 
