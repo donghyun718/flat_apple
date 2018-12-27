@@ -4,7 +4,7 @@
 @snapend
 
 @snap[east]
-![img_1877](https://user-images.githubusercontent.com/46038967/50469581-6d2d5800-09f0-11e9-88b3-62f876f3ea14.PNG)
+![img_1877](https://user-images.githubusercontent.com/46038967/50469733-1a07d500-09f1-11e9-8f8a-57c35ae4cf5a.PNG)
 @snapend
 
 ---
