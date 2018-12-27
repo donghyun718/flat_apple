@@ -18,12 +18,13 @@
 수정이되나요?
 
 ---
-<div style="float:left">
+@snap[west]
 # 이민준입니다.
 ## 별 명: 곰
 ## 성 격: 온순
 ### 연말 계획: 다 같이 쓰리 투 원 !!
-</div>
+@snapend
+
 <div style="width: 207px; height: 255; float:right;">
 <img src="https://user-images.githubusercontent.com/46038987/50469253-f5126280-09ee-11e9-84f4-8dbfc85c42c7.jpg">
 </div>
