@@ -4,7 +4,7 @@
 ## 이경일
 @snapend
 @snap[east]
-@img[](http://t1.daumcdn.net/liveboard/petnu/1e7038e4fe9f43ed85b56940c8fc7096.JPG)
+![img_0180](https://user-images.githubusercontent.com/29008224/50469127-79181a80-09ee-11e9-8769-55dd76803bf2.JPG)
 @snapend
 ---?color=#dfdfdf
 
