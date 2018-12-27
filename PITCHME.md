@@ -6,7 +6,7 @@
 그럼 이만...
 ---?color=#DDDDDD
 
-@snap[north-west]
+@snap[north]
 ## 납작한사과 이경일
 @snapend
 
