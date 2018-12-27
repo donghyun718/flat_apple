@@ -4,3 +4,8 @@
 ---
 # 슬라이드 2
 그럼 이만...
+---?color=#DDDDDD
+@snap[north-west]
+## 납작한사과 이경일
+@snapend
+---
