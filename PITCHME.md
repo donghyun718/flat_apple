@@ -1,33 +1,14 @@
 
-@snap[west]
+@snap[east]
 
 <img src="https://lh3.googleusercontent.com/SDMz54sUtNnhkFZe3OvxB_hgHTr4SIQoPlzxCWPT08vQhUtqNVpxbS_eXS6z70ItrEpW-2AVSsodfp51gpR8CBDy7xQEoJWKONJ81ZzgZUbnm_ZuExwBLlb4Ok18f6tFSG9BSKNAvqpw5Vcu-RQ2Iff1U9Y2RinlPsqBStiFLJpFB-N3as4NAu_aZzd6lkDysS93eLhLQZCF3XOU5dJsvfy3mai7J0hC23hqgs0GgSbd9gr5Jfh1elMLeOTWeAtusMj7BMFk7Bhzko8MzM4B-JYuf4uMyWYoVCE2931YsTR2LM3HVEQ_dl6wSF--zryZiNj7c3io5Z--1aac3QXUyMxMSiNAW-krBMDxuD23ZjBOKSHxFwqMdDC-YxTFGKbzNICKZg0O8TPPzqh24UaHBb_ceB40TnpRWxTAuMaj2J2IktCSjJTGq1OG9hpVbf4d13EAYLcKFyEeTKleuE9Nc-KqWJTDYnSUQQDoBfzmMEuL5FJGZuqEDRlCE1aRSvpZNVsgI_edms-di8k37UM60sz0Yw4O7r5jKbCzHU0eyln_DtHf2L99-XEUxLrrBYOcUDCYAU7I8TblTb2lkPW4EMtRqhJ97mJ5nNPqy6Sy6tDJGuhyU2DoRLTmZFjrGw6k61iQYzNMxrD55q7m0du2uUtbSYjyR0HZTvswX8Mf60hrBRW4XgJN7-alXnzFZ_XeR33obNXFDj61M0fXTg=w700-h503-n" width="400" height="300" />
 @snapend
 
-.headline {
-  color: gold;
-  text-transform: uppercase;
-}
-
-.byline {
-  color: gray;
-  font-size: 0.9em;
-  letter-spacing: 2px;
-}
-.byline1 {
-  color: gray;
-  font-size: 0.9em;
-  letter-spacing: 2px;
-}
-.byline2 {
-  color: gray;
-  font-size: 0.9em;
-  letter-spacing: 2px;
-}
-
-### @css[headline](이동현)
-#### @css[byline](엄마)
-#### @css[byline1](밝다)
-#### @css[byline2](카운트다운 축제)
+@snap[west]
+### 이름 : 이동현
+### 별명 : 엄마
+### 성격 : 밝다
+### 연말계획 : 카운트다운 
+@snapend
 
 
