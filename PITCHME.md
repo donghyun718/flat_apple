@@ -15,5 +15,5 @@
 **별명** : 유치하게 별명은 무슨 별명이에요..
 
 ---
-연말에는 스키장가서 해뜨는거 보고싶어요
+연말에는 스키장가서 해는거 보고싶어요
 <img src="http://www.sapporo.travel/cms/wp-content/uploads/2013/12/032-1200x600.jpg" width=500>
